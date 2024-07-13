@@ -1,0 +1,35 @@
+h1 {
+  color: red;
+}
+
+/* h2 {
+  color: green;
+  background-color: darkred;
+} */
+
+.main-title {
+  /* background-color: gray; */
+  /* border: 1px dashed black; */
+  border: 1px solid black;
+  width: 30%;
+  height: 50px;
+}
+
+.yellow-title {
+  color: yellowgreen;
+  font-size: 1rem;
+}
+
+#green-title {
+  color: green;
+}
+
+/* 
+Priority
+
+1. inline css
+2. id
+3. class
+4. tag
+
+*/
